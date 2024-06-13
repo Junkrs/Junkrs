@@ -11,3 +11,8 @@ Feel free to contact me:
 - I graduated from ETEC as a Computer Technician and am currently pursuing a degree in Computer Science at UNESP.
 - Currently studing AR/VR
 - My hobbies consist of playing games, watching anime and dealing with hardware.
+
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junkrs&layout=donut)](https://github.com/Junkrs/github-readme-stats)
+
