@@ -10,6 +10,7 @@ Feel free to contact me:
 🔵 About me!
 - I graduated from ETEC as a Computer Technician and am currently pursuing a degree in Computer Science at UNESP.
 - Currently developing a new Laravel project, hopefully I'll have more news in the future!
+- I'm doing a internship as a QA, I'll be posting some of my test automations from time to time.
 - My hobbies consist of playing games, watching anime and dealing with hardware.
 
 ##
