@@ -1,4 +1,4 @@
-### 🔵 Hello there, welcome to my personal GitHub profile! <img src="https://media.tenor.com/V8QQHq5r5AgAAAAi/bocchi-bocchi-the-rock.gif" width="100">
+### 🔵 Hello there, welcome to my personal GitHub profile! <img src="https://media.tenor.com/X3sERurxdvgAAAAi/uma-musume-super-creek.gif" width="100"> <img src="https://media.tenor.com/-lfKiysaO2oAAAAi/uma-musume-chibi.gif" width="100">
 
 My name is Gabriel Junqueira, I hold a barchelor degree in Computer Science at [<em><ins>São Paulo State University</ins></em>](https://www.fc.unesp.br/) and work as a SAP Analyst at [<em><ins>Accenture</ins></em>](https://www.accenture.com/br-pt).
 Feel free to contact me:
